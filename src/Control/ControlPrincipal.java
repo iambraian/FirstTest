@@ -2,10 +2,13 @@ package Control;
 
 class ControlPrincipal{
     public static void main(String[] args) {
-        int num1 = 70;
-        int num2 = 90;
+        double num1 = 70;
+        double num2 = 90;
         
-        int suma = num1 + num2;
-        System.out.println("SUMA: " + suma);
+        double suma = num1 + num2;
+        System.out.println("SUMA = " + suma);
+        
+        double division = num1 / num2;
+        System.out.println("DIVISION = " + division);
     }
 }
