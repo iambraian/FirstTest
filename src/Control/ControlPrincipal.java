@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 class ControlPrincipal{
     public static void main(String[] args) {
-        
+        /*
+        El siguiente codigo muestra la suma y la division de dos numeros
+        proporcionados por el usuario
+        */
         System.out.println("Ingrese los numeros a procesar: ");
         
         Scanner inputUsuario = new Scanner(System.in);
