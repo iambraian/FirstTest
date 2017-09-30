@@ -1,0 +1,11 @@
+commit df863569ca252011b56ca4fdf30839c6d451802d
+Author: iambraian <bj026in@gmail.com>
+Date:   Sat Sep 30 15:45:18 2017 -0500
+
+    Nombres de variables modificados
+
+commit 65ae9a46f4b04051a86ddc52fa530aad7ae43320
+Author: iambraian <bj026in@gmail.com>
+Date:   Sat Sep 30 15:40:32 2017 -0500
+
+    Commit inicial
